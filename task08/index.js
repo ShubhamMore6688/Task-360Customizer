@@ -5,7 +5,7 @@ function validateUserInput(input) {
     }
     return true;
 }
-var userInput = { email: 'yashlondhe9151@gmail', password: 'pass123' };
+var userInput = { email: 'shubhamdmore03@gmail.com', password: 'pass123' };
 try {
     validateUserInput(userInput);
 }

@@ -6,9 +6,9 @@ const PORT = process.env.PORT || 300;
 // sample data
 
 const userDB = {
-    "yash_londhe": {
-        "username": "yash_londhe",
-        "name": "Yash Londhe",
+    "shubham_more": {
+        "username": "shubham_more",
+        "name": "Shubham More",
         "email": "user1@gmail.com",
         "age": "21",
         "location": "pune",
@@ -16,10 +16,10 @@ const userDB = {
 
     },
 
-    "slicker_dude": {
-        "username": "slicker_dude",
-        "name": "Slicker Dude",
-        "email": "slicker@gmail.com",
+    "dude": {
+        "username": "dude",
+        "name": "Dude",
+        "email": "dude@gmail.com",
         "age": "22",
         "location": "mumbai",
         "active_status": true

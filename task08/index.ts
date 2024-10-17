@@ -12,7 +12,7 @@ interface UserInput {
     return true;
   }
   
-  const userInput: UserInput = { email: 'yashlondhe9151@gmail.com', password: 'pass123' };
+  const userInput: UserInput = { email: 'shubhamdmore03@gmail.com', password: 'pass123' };
   try {
     validateUserInput(userInput);
   } catch (error) {

@@ -17,8 +17,8 @@
 ```json
 
 {
-    "username": "yash_londhe",
-    "name": "Yash Londhe",
+    "username": "shubham_more",
+    "name": "Shubham More",
     "email": "user1@gmail.com",
     "age": "21",
     "location": "pune",
